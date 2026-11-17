@@ -1,0 +1,18 @@
+# .NET
+*.user
+*.suo
+*.cache
+*.log
+*.pdb
+*.mdb
+*.obj
+*.exe
+*.dll
+*.apphost
+*.deps.json
+*.runtimeconfig.json
+*.runtimeconfig.dev.json
+*.GeneratedMSBuildEditorConfig.editorconfig
+*.vs/
+bin/
+obj/
